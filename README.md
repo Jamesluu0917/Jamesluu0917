@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **Jamesluu0917/Jamesluu0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
