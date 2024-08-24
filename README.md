@@ -1,4 +1,5 @@
-## Hello 👋
+![Github cover](https://github.com/user-attachments/assets/1ed9b471-4dfb-4da6-8893-771335658263)
+
 
 <!--
 **Jamesluu0917/Jamesluu0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
