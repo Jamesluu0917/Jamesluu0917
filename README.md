@@ -1,5 +1,6 @@
 [![MasterHead](https://github.com/user-attachments/assets/13dd8b4a-561e-4b85-8654-739639157027)](https://github.com/Jamesluu0917)
 
+See projects I'm working on below 👇
 
 <!--
 **Jamesluu0917/Jamesluu0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
