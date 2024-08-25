@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/13dd8b4a-561e-4b85-8654-739639157027)](https://github.com/Jamesluu0917)
+[![MasterHead](https://github.com/user-attachments/assets/bff3c880-e30b-4f90-8bab-70d6c6ee5f06)](https://github.com/Jamesluu0917)
 
 ## Welcome to my profile! Fun facts about me 👇
 
