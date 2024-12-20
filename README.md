@@ -50,7 +50,7 @@
   
 </p>
 
-## See projects I'm working on below 👇
+## See pinned projects I'm working on below 👇
 
 <!--
 **Jamesluu0917/Jamesluu0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
