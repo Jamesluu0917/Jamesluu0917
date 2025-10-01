@@ -2,7 +2,7 @@
 
 ## Welcome to my profile! Fun facts about me 👇
 
-🎓 I'm a 3rd year Software Engineering student at McGill University
+🎓 I'm a 4th year Software Engineering student at McGill University
 
 🩷 I love UI/UX design
 
