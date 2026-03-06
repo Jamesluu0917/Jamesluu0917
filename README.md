@@ -1,19 +1,3 @@
-[![MasterHead](https://github.com/user-attachments/assets/bff3c880-e30b-4f90-8bab-70d6c6ee5f06)](https://github.com/Jamesluu0917)
-
-## Welcome to my profile! Fun facts about me 👇
-
-🎓 I'm a 4th year Software Engineering student at McGill University
-
-🩷 I love UI/UX design
-
-💡 I can speak 3 (almost 5 👀) languages
-
-🧩 I'm an INFJ-T!
-
-🐈 I love cats :3
-
-🏸 My hobbies - Playing badminton and taking long walks outside!🚶
-
 ## My programming languages
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
